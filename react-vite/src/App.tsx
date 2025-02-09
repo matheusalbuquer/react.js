@@ -1,5 +1,5 @@
 import { Footer } from "./component/Footer"
-import { NavBar } from "./component/navBar"
+import { NavBar } from "./component/NavBar"
 import { Section } from "./component/Section"
 
 
